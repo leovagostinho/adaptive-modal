@@ -1,6 +1,6 @@
 # Adaptive Modal
 
-A responsive interface component that seamlessly transforms between a centered modal on desktop and a bottom drawer on mobile devices, providing an optimal user experience across all screen sizes. Built with React, Tailwind CSS, and Radix UI primitives.
+A responsive interface component that seamlessly transforms between a centered modal on desktop and a bottom drawer on mobile devices, providing an optimal user experience across all screen sizes. Built with React, Tailwind CSS, Radix UI primitives, and [shadcn/ui](https://ui.shadcn.com/) components.
 
 ## Features
 
