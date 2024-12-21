@@ -34,7 +34,7 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["src"],
+  "include": ["src", "lib"],
   "ts-node": {
     "esm": true,
     "experimentalSpecifierResolution": "node"
