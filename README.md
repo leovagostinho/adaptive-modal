@@ -10,7 +10,7 @@ A responsive interface component that seamlessly transforms between a centered m
 - Built with React and TypeScript
 - Styled with Tailwind CSS
 - Toast notifications using [Sonner](https://sonner.emilkowal.ski/)
-- Inspired by and using components from [shadcn/ui](https://ui.shadcn.com/docs)
+- Using components from [shadcn/ui](https://ui.shadcn.com/docs)
 
 ## Usage
 
