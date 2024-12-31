@@ -57,7 +57,7 @@ export default function App() {
             asChild
           >
             <a 
-              href="https://github.com/agostinhoai/adaptive-modal" 
+              href="https://github.com/leovagostinho/adaptive-modal" 
               target="_blank" 
               rel="noopener noreferrer"
               className="inline-flex items-center"
